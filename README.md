@@ -52,6 +52,8 @@ Let us walk down the road less traveled and see how we can develop JavaScript wi
 
 Comparison of code in Vanilla JS vs jQuery, a brief history of the jQuery library and general advice on where and why to use it.  
 
+&nbsp;
+
 ## Friendship between two doubleW’s - NOT HELD YET
 *1-3.09.2017 - WordCamp 2017 Zagreb*
 
