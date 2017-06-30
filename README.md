@@ -43,7 +43,7 @@ We all know that vector icons are lightyears ahead of raster icons in almost eve
 
 &nbsp;
 
-## To jQuery or not to jQuery
+## To jQuery or not to jQuery - NOT HELD YET
 *13.07.2017 - Maribor JSTalks*
 
 Let us walk down the road less traveled and see how we can develop JavaScript without jQuery, but armed instead with the understanding of how vanilla JavaScript really works. Together we'll learn how to avoid the jQuery trap that many new and hobbyist web developers fall into, and see how we can benefit from going back to the JS roots instead.
