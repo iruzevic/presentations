@@ -21,6 +21,8 @@ Built your WordPress project with Webpack3. Let's explore how to use and build y
 ## Friendship between two doubleW’s
 *1-3.09.2017 - WordCamp 2017 Zagreb*
 
+https://youtu.be/tRZRqTSRvWU?t=7h41m12s
+
 We will merge two doubleW’s into a single awesome project. Let’s explore how to use Webpack2 with your Wordpress theme, how to build your Webpack configuration and use it with CSS/SASS, JSON, Images, Fonts, JS, and many more. I’ll provide the boilerplate configuration for your WW project. On top of everything, we will explore how PostCSS can be added to your project which will enrich your application with some cool plugins. But that is not all, you will also get the configuration for PHP, SASS, JS linting, as well as build and deploy bash scripts. Let’s start building Wordpress with this awesome tool.
 
 &nbsp;
