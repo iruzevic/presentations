@@ -11,15 +11,34 @@ I started as a designer back in 2007, but changed my focus on programing. Mainly
 
 &nbsp;
 
-## Make a CSS sandwich by using postCSS as a bread
-*14.02.2017 - Infinum Js Talks #5*
+## WordPress - Webpack can they work (bundle) together
+*13.02.2018 - Infinum Js Talks #12*
 
-I like to think of it as being like the bread you use to make a sandwich. By itself it doesn’t seem like much, but with an infinite variety of fillings that gives you something amazing. Explore how to setup, install plugins and some cool examples. Write less and get more.
+Built your WordPress project with Webpack3. Let's explore how to use and build your Webpack configuration by bundling CSS/SASS, JSON, Images, Fonts, JS, and many more. I'll provide the boilerplate configuration for your Wordpress-Webpack project.
 
 &nbsp;
 
-## Introduction of my self at Infinum
-*23.03.2017 - Infinum HQ*
+## Friendship between two doubleW’s
+*1-3.09.2017 - WordCamp 2017 Zagreb*
+
+We will merge two doubleW’s into a single awesome project. Let’s explore how to use Webpack2 with your Wordpress theme, how to build your Webpack configuration and use it with CSS/SASS, JSON, Images, Fonts, JS, and many more. I’ll provide the boilerplate configuration for your WW project. On top of everything, we will explore how PostCSS can be added to your project which will enrich your application with some cool plugins. But that is not all, you will also get the configuration for PHP, SASS, JS linting, as well as build and deploy bash scripts. Let’s start building Wordpress with this awesome tool.
+
+&nbsp;
+
+## To jQuery or not to jQuery - NOT HELD YET
+
+Let us walk down the road less traveled and see how we can develop JavaScript without jQuery, but armed instead with the understanding of how vanilla JavaScript really works. Together we'll learn how to avoid the jQuery trap that many new and hobbyist web developers fall into, and see how we can benefit from going back to the JS roots instead.
+
+**What will the audience get:**
+
+Comparison of code in Vanilla JS vs jQuery, a brief history of the jQuery library and general advice on where and why to use it.  
+
+&nbsp;
+
+## Icons - font or svg that is the question!
+*09.05.2017 - Infinum Js Talks #8*
+
+We all know that vector icons are lightyears ahead of raster icons in almost every way. But which of the two approaches - SVG icons or font icons - should we be using? In this talk, I'll help you understand and solve this mystery, and make your icons as sharp as a knife.
 
 &nbsp;
 
@@ -36,28 +55,13 @@ I'll walk you through some of the basics, tell you where to start, what to learn
 
 &nbsp;
 
-## Icons - font or svg that is the question!
-*09.05.2017 - Infinum Js Talks #8*
-
-We all know that vector icons are lightyears ahead of raster icons in almost every way. But which of the two approaches - SVG icons or font icons - should we be using? In this talk, I'll help you understand and solve this mystery, and make your icons as sharp as a knife.
+## Introduction of my self at Infinum
+*23.03.2017 - Infinum HQ*
 
 &nbsp;
 
-## To jQuery or not to jQuery - NOT HELD YET
-*13.07.2017 - Maribor JSTalks*
+## Make a CSS sandwich by using postCSS as a bread
+*14.02.2017 - Infinum Js Talks #5*
 
-Let us walk down the road less traveled and see how we can develop JavaScript without jQuery, but armed instead with the understanding of how vanilla JavaScript really works. Together we'll learn how to avoid the jQuery trap that many new and hobbyist web developers fall into, and see how we can benefit from going back to the JS roots instead.
-
-**What will the audience get:**
-
-Comparison of code in Vanilla JS vs jQuery, a brief history of the jQuery library and general advice on where and why to use it.  
-
-&nbsp;
-
-## Friendship between two doubleW’s - NOT HELD YET
-*1-3.09.2017 - WordCamp 2017 Zagreb*
-
-We will merge two doubleW’s into a single awesome project. Let’s explore how to use Webpack2 with your Wordpress theme, how to build your Webpack configuration and use it with CSS/SASS, JSON, Images, Fonts, JS, and many more. I’ll provide the boilerplate configuration for your WW project. On top of everything, we will explore how PostCSS can be added to your project which will enrich your application with some cool plugins. But that is not all, you will also get the configuration for PHP, SASS, JS linting, as well as build and deploy bash scripts. Let’s start building Wordpress with this awesome tool.
-
-
+I like to think of it as being like the bread you use to make a sandwich. By itself it doesn’t seem like much, but with an infinite variety of fillings that gives you something amazing. Explore how to setup, install plugins and some cool examples. Write less and get more.
 
