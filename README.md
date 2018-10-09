@@ -6,8 +6,15 @@ All my presentations from talks and meetups
 ## About me - Bio
 *Ivan Ružević - JavaScript Engineer @Infinum*
 
-I’m 28 years old professional web developer with more than 10 years of design and development experience. Today I’m a Senior Wordpress developer @Infinum. My specialty is Frontend development but I have been working with a large variety of technologies and languages. 
+I’m 29 years old professional web developer with more than 10 years of design and development experience. Today I’m a Senior Wordpress developer @Infinum. My specialty is Frontend development but I have been working with a large variety of technologies and languages. 
 I started as a designer back in 2007, but changed my focus on programing. Mainly I’m working with Frontend languages like JS, CSS/SASS, but I’m also highly comfortable with Backend technologies like PHP (Laravel, Symfony, Magento, Wordpress). Wordpress has been my focus from version 2.8 and I have been developing for it ever since. 
+
+&nbsp;
+
+## Webpack dynamic import
+*23.10.2018 - Infinum Js Talks #13*
+
+Lazy load your Javascript components even when not using modern Javascript libraries like React or Angular. Let's explore how to use Webpack dynamic imports and how to convert your existing code to a more optimized way of Javascript delivery.
 
 &nbsp;
 
