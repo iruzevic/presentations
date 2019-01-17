@@ -6,8 +6,15 @@ All my presentations from talks and meetups
 ## About me - Bio
 *Ivan Ružević - JavaScript Engineer @Infinum*
 
-I’m 29 years old professional web developer with more than 10 years of design and development experience. Today I’m a Senior Wordpress developer @Infinum. My specialty is Frontend development but I have been working with a large variety of technologies and languages. 
+I’m 29 years old professional web developer with more than 10 years of design and development experience. Today I’m a Wordpress Teamlead @Infinum. My specialty is Frontend development but I have been working with a large variety of technologies and languages. 
 I started as a designer back in 2007, but changed my focus on programing. Mainly I’m working with Frontend languages like JS, CSS/SASS, but I’m also highly comfortable with Backend technologies like PHP (Laravel, Symfony, Magento, Wordpress). Wordpress has been my focus from version 2.8 and I have been developing for it ever since. 
+
+&nbsp;
+
+## Advance WP Rocket ahaa moments
+*30.01.2019 - WP Meetup #21*
+
+WP Rocket cache is easy to set up if you are using standard WordPress setup, but what happens if you have decoupled WordPress setup or want to cache Rest/API routs? We will be digging in more details how WP Rocket cache works and some ahaa moments to save you headaches in the future.
 
 &nbsp;
 
